@@ -77,4 +77,5 @@ theme: cactus-light
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/stabone/umarpu.github.io.git
